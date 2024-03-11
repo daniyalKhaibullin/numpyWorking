@@ -21,6 +21,14 @@ calculation using NumPy's linear algebra functions (numpy.linalg.inv(), numpy.li
 Implement simple image processing operations such as grayscale conversion, 
 resizing, rotation, and flipping using NumPy array manipulation techniques.
 
+## Getting Started with NumPy
+
+To get started with NumPy, you'll first need to install it. You can install NumPy via pip by running the following command in your terminal:
+
+```bash
+pip install numpy
+```
+
 ## How to Contribute
 
 1. **Fork** and **clone** the repository.
